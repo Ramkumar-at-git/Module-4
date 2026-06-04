@@ -15,8 +15,8 @@ To write a Python program to merge dictionary2 with dictionary1.
 ---
 ### PROGRAM
 ```python
-# Reg.No- 212222060100
-# Name- Jothivanan T
+# Reg.No- 212223063005
+# Name- Ramkumar Y
 dict1 = eval(input())
 dict2 = eval(input())
 merged = {**dict2, **dict1}
